@@ -6,9 +6,9 @@ The purpose of this analyis is to analyze all the rideshare data from January to
 
 ### Resources
 
-Jupyter Notebook v
-city_data.csv
-ride_data.csv
+- Python/Jupyter Notebook v3.7.7
+- city_data.csv
+- ride_data.csv
 
 ## Results
 
